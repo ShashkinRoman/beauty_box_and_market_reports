@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed0a430e-e3dc-4a8c-a00d-e018954c1a61" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="69e833db-6778-497b-9a6c-9866c4b44bc3" />
+  <component name="ProjectId" id="1jSlPLf8S8NmGfBiqcApB2MXkGw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cian_parser" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/market_reports/utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="beauty_box_and_market_reports" type="Python.DjangoServer" factoryName="Django server">
+      <module name="beauty_box_and_market_reports" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed0a430e-e3dc-4a8c-a00d-e018954c1a61" name="Default Changelist" comment="" />
+      <created>1603805353277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603805353277</updated>
+      <workItem from="1603805356096" duration="81000" />
+      <workItem from="1603954088800" duration="1874000" />
+      <workItem from="1603967250175" duration="120000" />
+      <workItem from="1604472957816" duration="21656000" />
+      <workItem from="1604646901250" duration="620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="155" width="424" height="488" key="FileChooserDialogImpl" timestamp="1604648179580">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="586" y="155" width="424" height="488" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1604648179580" />
+    <state x="586" y="220" width="424" height="488" key="FileChooserDialogImpl/0.32.1600.868@0.32.1600.868" timestamp="1603805431202" />
+    <state x="463" y="188" width="672" height="678" key="search.everywhere.popup" timestamp="1604473989036">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="463" y="188" width="672" height="678" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1604473989036" />
+  </component>
+</project>
